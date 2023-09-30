@@ -2,7 +2,7 @@
 <img src="https://github.com/ShaftHQ/SHAFT_ENGINE/raw/main/src/main/resources/images/shaft.png" alt="SHAFT_ENGINE" style="display:block; margin-left:auto; margin-right:auto;"/>
 
 ## I. Steps
-1. Login to Website URL: https://oyn-adminportal-qc-demo.salmonsky1edff179.westeurope.azurecontainerapps.io
+1. Login to Website URL: `https://oyn-adminportal-qc-demo.salmonsky-1edff179.westeurope.azurecontainerapps.io/identity/login`
 2. Use below user
    - Role: `Store Admin - store 'Almarai'`
    - Email: `store@admin.com`
